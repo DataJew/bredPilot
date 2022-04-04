@@ -1,7 +1,14 @@
 # bredPilot
 rough draft (web view)
 
-## App Screen Recording:
+## App Screen Recordings:
+* Spotify
+
+
+* Youtube
+
+
+* Instagram
 
 
 
