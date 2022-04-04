@@ -4,12 +4,15 @@ rough draft (web view)
 ## App Screen Recordings:
 * Spotify
 
+https://github.com/DataJew/bredPilot/blob/main/Resources/SpotifyLinkScreenRecording.mov
 
 * Youtube
 
+https://github.com/DataJew/bredPilot/blob/main/Resources/YouTubeLinkScreenRecording.mov
 
 * Instagram
 
+https://github.com/DataJew/bredPilot/blob/main/Resources/InstagramLinkScreenRecording.mov
 
 
 ### Embed website through browser link
